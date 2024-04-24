@@ -14,8 +14,8 @@ import uuid4 from 'uuid4';
 
 
 const conn = { // mysql 접속 설정, 데이터베이스 연결
-  host: '127.0.0.1',
-  port: 3306,
+  host: '127.0.0.svc.sel5.cloudtype.app',
+  port: 30521,
   user: 'root',
   password: 'root',
   database: '게시판',
